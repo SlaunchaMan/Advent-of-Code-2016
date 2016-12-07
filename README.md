@@ -1,2 +1,2 @@
-# Advent-of-Code-2016
-My solutions for the Advent of Code, 2016 Edition
+# Advent of Code 2016
+My solutions for the [Advent of Code](http://adventofcode.com), 2016 Edition.
